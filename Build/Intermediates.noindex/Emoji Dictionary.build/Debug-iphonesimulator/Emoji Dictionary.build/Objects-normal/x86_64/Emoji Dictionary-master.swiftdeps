@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "5f0378a952074c1bcd62a3b2e0fe4a3f"
+build_time: [1548260437, 439141000]
+inputs:
+  "/Users/egeakertek/Desktop/Emoji Dictionary/Emoji Dictionary/ViewController.swift": [1548260434, 0]
+  "/Users/egeakertek/Desktop/Emoji Dictionary/Emoji Dictionary/AppDelegate.swift": [1548260434, 0]
